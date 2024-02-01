@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "5715e97af44e5796",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a92eeb006477587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c52c1e0cc15082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe02d2ad618721c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "70146f095febc994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "744bf730f2b96150",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "909ca93294c75d1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd5a676f6fd5fd83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b782cb3a8c121efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "62674d635c945b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8444cfa5eefc01a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afa1df6deae54b04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2ff691cb2d08fce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8070f65cb31783f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/C-Sharp Course/SQL/Insert & Delete & Update.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "744bf730f2b96150",
+  "lastOpenFiles": [
+    "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
+    "Base/C-Sharp Course/SQL/Create a table.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Database Connection.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Files/JSON.md",
+    "Base/C-Sharp Course/C-Sharp/Basics/Data Types.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Files/Model Mapping.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Files/File Reading and Writing.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/Namespaces.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/Models.md",
+    "Base/C-Sharp Course/C-Sharp/Basics/Data Structures.md",
+    "Base/C-Sharp Course/C-Sharp/Basics/Conditional Statements.md",
+    "Base/C-Sharp Course/C-Sharp/Basics/Operator and Conditions.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Dapper.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Dapper_Class.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Config.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Files",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Database",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes",
+    "Base/C-Sharp Course/C-Sharp/Basics/Creating a Console App.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/(NOT)Nullable string.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Entity Framework.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/Fields and Properties.md",
+    "Base/C-Sharp Course/C-Sharp/Basics/Methods.md",
+    "Untitled.canvas",
+    "Base/C-Sharp Course/C-Sharp/Basics/Scope.md",
+    "Base/C-Sharp Course/C-Sharp/Basics/Loops.md",
+    "Templates/New Note.md",
+    "Base/Untitled.md",
+    "Base/C-Sharp Course/Azure",
+    "Base/C-Sharp Course/Stored Procedures",
+    "Base/C-Sharp Course/API/Advanced",
+    "Base/C-Sharp Course/API/Intermediate",
+    "Base/C-Sharp Course/API/Basics",
+    "Base/C-Sharp Course/API",
+    "Base/C-Sharp Course/SQL",
+    "Base/Other/Plans for 2024.md",
+    "Base/Other/Rules of Zettelkatsen.md"
+  ]
+}
