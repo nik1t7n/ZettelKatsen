@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
+                "file": "Base/C-Sharp Course/API/Basics/First_Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.50533294677734
   },
   "right": {
     "id": "b782cb3a8c121efd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
+                "file": "Base/C-Sharp Course/API/Basics/First_Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
+                "file": "Base/C-Sharp Course/API/Basics/First_Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/C-Sharp Course/SQL/Insert & Delete & Update.md"
+                "file": "Base/C-Sharp Course/API/Basics/First_Controller.md"
               }
             }
           }
@@ -147,9 +147,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "744bf730f2b96150",
+  "active": "12c52c1e0cc15082",
   "lastOpenFiles": [
+    "Base/C-Sharp Course/API/Basics/HelloWorld.md",
+    "Base/C-Sharp Course/API/Basics/First_Controller.md",
     "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
+    "Base/C-Sharp Course/API/Basics",
+    "Base/C-Sharp Course/API",
     "Base/C-Sharp Course/SQL/Create a table.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Database Connection.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Files/JSON.md",
@@ -181,10 +185,6 @@
     "Base/C-Sharp Course/Stored Procedures",
     "Base/C-Sharp Course/API/Advanced",
     "Base/C-Sharp Course/API/Intermediate",
-    "Base/C-Sharp Course/API/Basics",
-    "Base/C-Sharp Course/API",
-    "Base/C-Sharp Course/SQL",
-    "Base/Other/Plans for 2024.md",
-    "Base/Other/Rules of Zettelkatsen.md"
+    "Base/C-Sharp Course/API/Basics"
   ]
 }
