@@ -98,6 +98,8 @@ Here the most important features to our controller are:
 * **builder.Services.AddControllers();** - add all controllers to the main
 * app.MapControllers(); - map them to use it
 
+Likewise, the **Swagger** provides GUI for the testing and running API. ^bc3559
+
 ---
 ### Zero-Links
 

@@ -11,12 +11,8 @@
             "id": "12c52c1e0cc15082",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/C-Sharp Course/API/Basics/First_Controller.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.50533294677734
+    "width": 296.50533294677734,
+    "collapsed": true
   },
   "right": {
     "id": "b782cb3a8c121efd",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/C-Sharp Course/API/Basics/First_Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/C-Sharp Course/API/Basics/First_Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/C-Sharp Course/API/Basics/First_Controller.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,16 +142,22 @@
   },
   "active": "12c52c1e0cc15082",
   "lastOpenFiles": [
+    "Base/C-Sharp Course/API/Basics/User_Dapper_Controller.md",
+    "Base/C-Sharp Course/API/Basics/HelloWorld.md",
+    "Base/C-Sharp Course/API/Basics/API_Database_Connection.md",
+    "Base/C-Sharp Course/API/Basics/Users_Controller.md",
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Database Connection.md",
+    "Base/C-Sharp Course/API/Basics/CORS_Setup.md",
+    "Untitled.canvas",
+    "Base/C-Sharp Course/API/Basics/LaunchSettings.json.md",
+    "Base/C-Sharp Course/API/Basics/First_Controller.md",
+    "Base/C-Sharp Course/API/Basics/Startup.cs.md",
     "Base/C-Sharp Course/C-Sharp/Basics/Operator and Conditions.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Files/File Reading and Writing.md",
-    "Base/C-Sharp Course/API/Basics/HelloWorld.md",
-    "Base/C-Sharp Course/API/Basics/Startup.cs.md",
-    "Base/C-Sharp Course/API/Basics/First_Controller.md",
     "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
     "Base/C-Sharp Course/API/Basics",
     "Base/C-Sharp Course/API",
     "Base/C-Sharp Course/SQL/Create a table.md",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Database Connection.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Files/JSON.md",
     "Base/C-Sharp Course/C-Sharp/Basics/Data Types.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Files/Model Mapping.md",
@@ -175,12 +174,6 @@
     "Base/C-Sharp Course/C-Sharp/Basics/Creating a Console App.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/(NOT)Nullable string.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Entity Framework.md",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/Fields and Properties.md",
-    "Base/C-Sharp Course/C-Sharp/Basics/Methods.md",
-    "Untitled.canvas",
-    "Base/C-Sharp Course/C-Sharp/Basics/Scope.md",
-    "Base/C-Sharp Course/C-Sharp/Basics/Loops.md",
-    "Templates/New Note.md",
     "Base/C-Sharp Course/Azure",
     "Base/C-Sharp Course/Stored Procedures",
     "Base/C-Sharp Course/API/Advanced",

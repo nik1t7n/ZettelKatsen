@@ -130,6 +130,9 @@ Firstly, we need to make a connection to the database starting from a *connectio
 string connection = "Server=localhost;Database=DotNetCourseDatabase;TrustServerCertificate=true;Trusted_Connection=false;User Id=sa;Password=SQLConnect1;";
 ```
 
+^7c61d0
+
+
 ==Windows==
 ```cs
 string connection = "Server=localhost;Database=DotNetCourseDatabase;TrustServerCertificate=true;Trusted_Connection=true;Password=SQLConnect1;";
