@@ -118,6 +118,8 @@ public class UserController : ControllerBase
 }
 ```
 
+^27930e
+
 Here we have created two new attributes **\[HttpPut("EditUser")]** and **\[HttpPost("AddUser")]**. Former will make put requests with updating database while latter will add absolutely new user by doing post request.
 
 There is no something very special here. Maybe **IActionResult**. It returns response from the server (how out command worked). Successful or not.
