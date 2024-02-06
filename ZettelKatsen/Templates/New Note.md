@@ -1,4 +1,4 @@
-Created: {{date:YYYYMMDD}}{{time:HHMM}}
+Created: {{date:YYYYMMDD}}{{time:HHmm}}
 Tags: #
 
 ---

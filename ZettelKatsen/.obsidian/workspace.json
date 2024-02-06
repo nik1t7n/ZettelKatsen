@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.50533294677734,
-    "collapsed": true
+    "width": 296.50533294677734
   },
   "right": {
     "id": "b782cb3a8c121efd",
@@ -142,8 +141,10 @@
   },
   "active": "12c52c1e0cc15082",
   "lastOpenFiles": [
-    "Base/C-Sharp Course/API/Basics/User_Dapper_Controller.md",
+    "Base/C-Sharp Course/API/Basics/Put_&_Post.md",
     "Base/C-Sharp Course/API/Basics/HelloWorld.md",
+    "Templates/New Note.md",
+    "Base/C-Sharp Course/API/Basics/User_Dapper_Controller.md",
     "Base/C-Sharp Course/API/Basics/API_Database_Connection.md",
     "Base/C-Sharp Course/API/Basics/Users_Controller.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Database Connection.md",
@@ -172,8 +173,6 @@
     "Base/C-Sharp Course/C-Sharp/Intermediate/Database",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Classes",
     "Base/C-Sharp Course/C-Sharp/Basics/Creating a Console App.md",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/(NOT)Nullable string.md",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Entity Framework.md",
     "Base/C-Sharp Course/Azure",
     "Base/C-Sharp Course/Stored Procedures",
     "Base/C-Sharp Course/API/Advanced",

@@ -41,6 +41,8 @@ public class UserController : ControllerBase
 }
 ```
 
+^d9908f
+
 Here we created trivial logic of the controller. It just takes *testValue* and returns it. 
 
 The new part is **\[HttpGet("GetUsers/{testValue}")]**. Here we say to the program that after our *hostname/GetUsers* we can provide a value. It will look like this:
