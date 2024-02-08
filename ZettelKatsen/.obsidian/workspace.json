@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1a92eeb006477587",
+        "id": "90bb892d77b4477b",
         "type": "tabs",
         "children": [
           {
-            "id": "12c52c1e0cc15082",
+            "id": "116b2ccd1045b7fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/C-Sharp Course/API/Basics/EF/EF_Setup.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/C-Sharp Course/API/Basics/EF/EF_Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/C-Sharp Course/API/Basics/EF/EF_Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/C-Sharp Course/API/Basics/EF/EF_Setup.md"
+              }
             }
           }
         ]
@@ -139,23 +147,28 @@
       "random-note:Open random note": false
     }
   },
-  "active": "12c52c1e0cc15082",
+  "active": "116b2ccd1045b7fc",
   "lastOpenFiles": [
-    "Base/C-Sharp Course/API/Basics/Delete_Request.md",
-    "Base/C-Sharp Course/API/Basics/First_Controller.md",
-    "Base/C-Sharp Course/API/Basics/HelloWorld.md",
-    "Base/C-Sharp Course/API/Basics/API_Namesapces.md",
-    "Base/C-Sharp Course/API/Basics/DTO.md",
-    "Base/C-Sharp Course/API/Basics/Put_&_Post.md",
+    "Base/C-Sharp Course/API/Basics/Beginning/HelloWorld.md",
+    "Base/C-Sharp Course/API/Basics/EF/EF_Setup.md",
     "Templates/New Note.md",
-    "Base/C-Sharp Course/API/Basics/User_Dapper_Controller.md",
-    "Base/C-Sharp Course/API/Basics/API_Database_Connection.md",
-    "Base/C-Sharp Course/API/Basics/Users_Controller.md",
+    "Base/C-Sharp Course/API/Basics/EF/Untitled",
+    "Base/C-Sharp Course/API/Basics/Beginning/Users_Controller.md",
+    "Base/C-Sharp Course/API/Basics/EF",
+    "Base/C-Sharp Course/API/Basics/Dapper",
+    "Base/C-Sharp Course/API/Basics/Beginning/LaunchSettings.json.md",
+    "Base/C-Sharp Course/API/Basics/Beginning",
+    "Base/C-Sharp Course/API/Basics/Beginning/First_Controller.md",
+    "Base/C-Sharp Course/API/Basics/Dapper/Delete_Request.md",
+    "Base/C-Sharp Course/API/Basics/Dapper/API_Namesapces.md",
+    "Base/C-Sharp Course/API/Basics/Dapper/DTO.md",
+    "Base/C-Sharp Course/API/Basics/Dapper/Put_&_Post.md",
+    "Base/C-Sharp Course/API/Basics/Dapper/User_Dapper_Controller.md",
+    "Base/C-Sharp Course/API/Basics/Dapper/API_Database_Connection.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Database Connection.md",
-    "Base/C-Sharp Course/API/Basics/CORS_Setup.md",
+    "Base/C-Sharp Course/API/Basics/Dapper/CORS_Setup.md",
     "Untitled.canvas",
-    "Base/C-Sharp Course/API/Basics/LaunchSettings.json.md",
-    "Base/C-Sharp Course/API/Basics/Startup.cs.md",
+    "Base/C-Sharp Course/API/Basics/Beginning/Startup.cs.md",
     "Base/C-Sharp Course/C-Sharp/Basics/Operator and Conditions.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Files/File Reading and Writing.md",
     "Base/C-Sharp Course/SQL/Insert & Delete & Update.md",
@@ -168,15 +181,9 @@
     "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/Namespaces.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/Models.md",
     "Base/C-Sharp Course/C-Sharp/Basics/Data Structures.md",
-    "Base/C-Sharp Course/C-Sharp/Basics/Conditional Statements.md",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Database/Dapper.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Files",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Database",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Classes",
-    "Base/C-Sharp Course/Azure",
-    "Base/C-Sharp Course/Stored Procedures",
-    "Base/C-Sharp Course/API/Advanced",
-    "Base/C-Sharp Course/API/Intermediate",
-    "Base/C-Sharp Course/API/Basics"
+    "Base/C-Sharp Course/Azure"
   ]
 }
