@@ -13,6 +13,9 @@ Here we are going to map data from ComputerSnake model to Computer model using *
 dotnet add package Automapper
 ```
 
+^84b2c2
+
+
 The mapper object declaration:
 
 ```js
