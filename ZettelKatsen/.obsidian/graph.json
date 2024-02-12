@@ -34,9 +34,16 @@
         "a": 1,
         "rgb": 15761218
       }
+    },
+    {
+      "query": "tag:#api-intermediate  ",
+      "color": {
+        "a": 1,
+        "rgb": 15292504
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8546858405623515,
+  "scale": 0.8546858405623519,
   "close": true
 }
