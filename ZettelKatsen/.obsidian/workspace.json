@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/C-Sharp Course/API/Intermediate/Repository_Pattern.md",
+                "file": "Base/C-Sharp Course/API/Intermediate/App_Interface_Arrangement.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.50533294677734,
-    "collapsed": true
+    "width": 296.50533294677734
   },
   "right": {
     "id": "b782cb3a8c121efd",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/C-Sharp Course/API/Intermediate/Repository_Pattern.md",
+                "file": "Base/C-Sharp Course/API/Intermediate/App_Interface_Arrangement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/C-Sharp Course/API/Intermediate/Repository_Pattern.md",
+                "file": "Base/C-Sharp Course/API/Intermediate/App_Interface_Arrangement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/C-Sharp Course/API/Intermediate/Repository_Pattern.md"
+                "file": "Base/C-Sharp Course/API/Intermediate/App_Interface_Arrangement.md"
               }
             }
           }
@@ -150,10 +149,17 @@
   },
   "active": "8b538c565a76b622",
   "lastOpenFiles": [
-    "Base/C-Sharp Course/API/Basics/Beginning/HelloWorld.md",
+    "Base/C-Sharp Course/API/Intermediate/Interface.md",
     "Base/C-Sharp Course/API/Intermediate/Repository_Pattern.md",
-    "Pasted image 20240212094720.png",
-    "Pasted image 20240212094639.png",
+    "Base/C-Sharp Course/API/Intermediate/Peripheral_Interface_Configuration.md",
+    "Base/C-Sharp Course/API/Basics/Beginning/HelloWorld.md",
+    "Base/C-Sharp Course/API/Basics/Beginning/First_Controller.md",
+    "Base/C-Sharp Course/API/Intermediate/App_Interface_Arrangement.md",
+    "img/Pasted image 20240215221418.png",
+    "img/Untitled.jpg",
+    "img/Pasted image 20240212094639.png",
+    "img",
+    "img/Pasted image 20240212094720.png",
     "Base/C-Sharp Course/API/Intermediate",
     "Base/C-Sharp Course/API/Basics/EF/UserControllerEF.md",
     "Base/C-Sharp Course/API/Basics/EF/EF_Setup.md",
@@ -164,7 +170,6 @@
     "Base/C-Sharp Course/API/Basics/Dapper",
     "Base/C-Sharp Course/API/Basics/Beginning/LaunchSettings.json.md",
     "Base/C-Sharp Course/API/Basics/Beginning",
-    "Base/C-Sharp Course/API/Basics/Beginning/First_Controller.md",
     "Base/C-Sharp Course/API/Basics/Dapper/Delete_Request.md",
     "Base/C-Sharp Course/API/Basics/Dapper/API_Namesapces.md",
     "Base/C-Sharp Course/API/Basics/Dapper/DTO.md",
@@ -183,10 +188,7 @@
     "Base/C-Sharp Course/SQL/Create a table.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Files/JSON.md",
     "Base/C-Sharp Course/C-Sharp/Basics/Data Types.md",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Files/Model Mapping.md",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes/Namespaces.md",
     "Base/C-Sharp Course/C-Sharp/Intermediate/Files",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Database",
-    "Base/C-Sharp Course/C-Sharp/Intermediate/Classes"
+    "Base/C-Sharp Course/C-Sharp/Intermediate/Database"
   ]
 }
